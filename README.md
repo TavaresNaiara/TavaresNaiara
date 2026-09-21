@@ -14,7 +14,7 @@
 
 ## 🕵🏻‍♀️ Sobre mim
 
-Sou uma profissional da área de **Tecnologia com foco 100% em Quality Assurance (QA)**. Minha missão é blindar o software antes que ele chegue ao usuário final, unindo visão analítica, testes precisos e cobertura estratégica. Sou apaixonada por desconstruir fluxos para encontrar falhas, otimizar processos e garantir aplicações mais seguras e funcionais.
+Sou uma profissional da área de **Tecnologia com foco em Quality Assurance (QA)**. Minha missão é garantir que o software entregue tenha a melhor qualidade possível, unindo visão analítica, testes precisos e empatia com o usuário final. Sou apaixonada por encontrar soluções, otimizar processos e garantir aplicações mais seguras e funcionais.
 
 - 🎯 **Foco atual:** Criar cenários de testes resilientes e aprimorar minhas habilidades em automação.
 - 🧪 **Testando e aprendendo:** Novas abordagens, boas práticas e frameworks de testes de ponta a ponta.
