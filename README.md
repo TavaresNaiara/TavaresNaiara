@@ -50,12 +50,7 @@ Sou uma profissional da área de **Tecnologia com foco em Quality Assurance (QA)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TavaresNaiara&theme=dark&background=000000&border=000000&ring=C3B1E1&fire=C3B1E1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C3B1E1&sideLabels=FFFFFF&dates=FFFFFF" width="80%" alt="GitHub Streak" />
 </div>
-<br>
-## 📉 Ciclo de Vida dos Commits
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TavaresNaiara&bg_color=000000&color=FFFFFF&line=C3B1E1&point=FFFFFF&area=true&hide_border=true" width="80%" alt="Activity Graph" />
-</div>
-<br>
+
 ## 🐛 Bug Tracking (Minhas Contribuições)
 <div align="center">
   <picture>
