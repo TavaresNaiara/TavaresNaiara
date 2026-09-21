@@ -31,21 +31,6 @@ Sou uma profissional da área de **Tecnologia com foco em Quality Assurance (QA)
   </a>
 </div>
 
-<br>
-
-## 🛡️ Projetos & Automações
-
-<div align="center">
-  <!-- Removi a barra extra (/api/pin/) que causa o erro de imagem corrompida -->
-  <a href="https://github.com/TavaresNaiara/DuplaCor">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=TavaresNaiara&repo=DuplaCor&bg_color=000000&border_color=C3B1E1&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1" width="48%" />
-  </a>
-  <a href="https://github.com/TavaresNaiara/teste_pratico_automacao">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=TavaresNaiara&repo=teste_pratico_automacao&bg_color=000000&border_color=C3B1E1&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1" width="48%" />
-  </a>
-</div>
-
-<br>
 
 ## 📊 Status da Qualidade (GitHub Stats)
 
@@ -61,15 +46,6 @@ Sou uma profissional da área de **Tecnologia com foco em Quality Assurance (QA)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TavaresNaiara&theme=dark&background=000000&border=000000&ring=C3B1E1&fire=C3B1E1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C3B1E1&sideLabels=FFFFFF&dates=FFFFFF" width="100%" alt="GitHub Streak" />
 </div>
 
-<br>
-
-## 📉 Ciclo de Vida dos Commits
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TavaresNaiara&bg_color=000000&color=FFFFFF&line=C3B1E1&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
 
 ## 🐛 Bug Tracking (Minhas Contribuições)
 
