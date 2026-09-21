@@ -33,13 +33,10 @@ Sou uma profissional da área de **Tecnologia com foco em Quality Assurance (QA)
 
 
 ## 📊 Status da Qualidade (GitHub Stats)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TavaresNaiara&show_icons=true&bg_color=000000&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1&border_color=333333&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresNaiara&layout=compact&bg_color=000000&title_color=C3B1E1&text_color=FFFFFF&border_color=333333&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TavaresNaiara&show_icons=true&bg_color=000000&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1&border_color=333333&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TavaresNaiara&layout=compact&bg_color=000000&title_color=C3B1E1&text_color=FFFFFF&border_color=333333&hide_border=true" width="48%" alt="Top Languages" />
 </div>
-
-<br>
 
 <!-- Streak Stats -->
 <div align="center">
