@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Minimalista -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Naiara%20Tavares&fontSize=70&fontColor=C3B1E1&animation=fadeIn&desc=Quality%20Assurance%20%7C%20Test%20Automation&descAlignY=80&descAlign=50&descColor=8A63D2" width="100%" />
+  <!-- Banner Lilás Suave com Destaque -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C3B1E1&height=200&section=header&text=Naiara%20Tavares&fontSize=65&fontColor=1A1A1A&animation=fadeIn&desc=Quality%20Assurance%20%7C%20Test%20Automation&descAlignY=75&descAlign=50&descColor=1A1A1A" width="100%" />
 
   <br>
   
@@ -36,11 +36,12 @@ Sou uma profissional da área de **Tecnologia com foco 100% em Quality Assurance
 ## 🛡️ Projetos & Automações
 
 <div align="center">
+  <!-- Removi a barra extra (/api/pin/) que causa o erro de imagem corrompida -->
   <a href="https://github.com/TavaresNaiara/DuplaCor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavaresNaiara&repo=DuplaCor&bg_color=000000&border_color=C3B1E1&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=TavaresNaiara&repo=DuplaCor&bg_color=000000&border_color=C3B1E1&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1" width="48%" />
   </a>
   <a href="https://github.com/TavaresNaiara/teste_pratico_automacao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TavaresNaiara&repo=teste_pratico_automacao&bg_color=000000&border_color=C3B1E1&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=TavaresNaiara&repo=teste_pratico_automacao&bg_color=000000&border_color=C3B1E1&title_color=C3B1E1&text_color=FFFFFF&icon_color=C3B1E1" width="48%" />
   </a>
 </div>
 
